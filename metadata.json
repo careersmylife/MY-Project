@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Employee Duty Roster",
+  "description": "An interactive web application to view and manage the monthly duty roster for employees. Users can easily update shift assignments for any employee on any given day.",
+  "requestFramePermissions": []
+}
